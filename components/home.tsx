@@ -85,7 +85,7 @@ export function Home() {
             <h1 className="text-3xl sm:text-5xl lg:text-7xl font-bold mb-4 sm:mb-6 leading-tight tracking-tight px-2">
               Skip the boilerplate
               <br />
-              Ship features
+              Ship features and write code
             </h1>
 
             <p className="text-base sm:text-lg lg:text-xl text-muted-foreground mb-6 sm:mb-8 max-w-2xl mx-auto font-sans px-2">
